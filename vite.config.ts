@@ -122,40 +122,9 @@ export default defineConfig({
 
         md.use(MarkdownItMagicLink, {
           linksMap: {
-            'Keela': 'https://www.keela.co/',
-            'Vitest': 'https://github.com/vitest-dev/vitest',
-            'Slidev': 'https://github.com/slidevjs/slidev',
-            'VueUse': 'https://github.com/vueuse/vueuse',
-            'UnoCSS': 'https://github.com/unocss/unocss',
-            'Elk': 'https://github.com/elk-zone/elk',
-            'Type Challenges': 'https://github.com/type-challenges/type-challenges',
-            'Vue': 'https://github.com/vuejs/core',
-            'Nuxt': 'https://github.com/nuxt/nuxt',
-            'Vite': 'https://github.com/vitejs/vite',
-            'Shiki': 'https://github.com/shikijs/shiki',
-            'Twoslash': 'https://github.com/twoslashes/twoslash',
-            'ESLint Stylistic': 'https://github.com/eslint-stylistic/eslint-stylistic',
-            'Unplugin': 'https://github.com/unplugin',
-            'Nuxt DevTools': 'https://github.com/nuxt/devtools',
-            'Vite PWA': 'https://github.com/vite-pwa',
-            'i18n Ally': 'https://github.com/lokalise/i18n-ally',
-            'ESLint': 'https://github.com/eslint/eslint',
-            'Astro': 'https://github.com/withastro/astro',
-            'TwoSlash': 'https://github.com/twoslashes/twoslash',
-            'BuffeDon Collective': { link: 'https://opencollective.com/antfu', imageUrl: 'https://github.com/antfu-collective.png' },
-            'Netlify': { link: 'https://netlify.com', imageUrl: 'https://github.com/netlify.png' },
-            'Stackblitz': { link: 'https://stackblitz.com', imageUrl: 'https://github.com/stackblitz.png' },
-            'Vercel': { link: 'https://vercel.com', imageUrl: 'https://github.com/vercel.png' },
+            Keela: 'https://www.keela.co/',
           },
           imageOverrides: [
-            ['https://github.com/vuejs/core', 'https://vuejs.org/logo.svg'],
-            ['https://github.com/nuxt/nuxt', 'https://nuxt.com/assets/design-kit/icon-green.svg'],
-            ['https://github.com/vitejs/vite', 'https://vitejs.dev/logo.svg'],
-            ['https://github.com/sponsors', 'https://github.com/github.png'],
-            ['https://github.com/sponsors/antfu', 'https://github.com/github.png'],
-            ['https://nuxtlabs.com', 'https://github.com/nuxtlabs.png'],
-            [/opencollective\.com\/vite/, 'https://github.com/vitejs.png'],
-            [/opencollective\.com\/elk/, 'https://github.com/elk-zone.png'],
           ],
         })
 
@@ -174,7 +143,7 @@ export default defineConfig({
               ? fs.copy(`${id.slice(0, -3)}.png`, `public/${path}`)
               : generateOg(frontmatter.title!.replace(/\s-\s.*$/, '').trim(), `public/${path}`),
           )
-          frontmatter.image = `https://antfu.me/${path}`
+          frontmatter.image = `https://lamapushpa.com/${path}`
         })()
         const head = defaults(frontmatter, options)
         return { head, frontmatter }

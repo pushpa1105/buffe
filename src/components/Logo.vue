@@ -13,7 +13,7 @@
       <g
         transform="translate(49.63720703125,37.5) rotate(0,0,0) translate(-49.63720703125,-37.5) matrix(1,0,0,1,49.63720703125,37.5)"
       >
-        <title>BuffeDon</title>
+        <title>Pushpa Lama</title>
         <path
           class="path1"
           fill="rgb(0,0,0)" fill-opacity="1"

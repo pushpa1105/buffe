@@ -1,4 +1,4 @@
-**[buffedon.me](https://t.me/buffmomo1105)**
+**[lamapushpa.com](https://lamapushpa.com)**
 
 my personal website
 

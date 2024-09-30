@@ -1,5 +1,5 @@
 ---
-title: Projects - BuffeDon
+title: Projects - Pushpa
 display: Projects
 description: List of projects that I am proud of
 wrapperClass: 'text-center'

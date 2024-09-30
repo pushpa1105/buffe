@@ -1,11 +1,10 @@
 ---
-title: Buffedon
-description: Buffedon's Portfolio
-image: https://antfu.me/og.png
+title: Pushpa Lama
+description: Pushpa's Portfolio
 plum: true
 ---
 
-Hey, I am Buffedon, a die hard otaku.
+Hey, I am Pushpa, a die hard otaku.
 
 Core team of {Keela}<br>
 
@@ -30,6 +29,6 @@ Find me on
   <a href="https://www.linkedin.com/in/buffmomo/" target="_blank"><span op75 i-simple-icons-linkedin /> LinkedIn</a>
 </p>
 
-Or mail me at [<span font-mono>me.buffedon<span i-carbon-at/>gmail.com</span>](mailto:me.buffedon@gmail.com)
+Or mail me at [<span font-mono>projectinfo1105<span i-carbon-at/>gmail.com</span>](mailto:projectinfo1105@gmail.com)
 
 ---
