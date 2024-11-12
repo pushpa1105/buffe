@@ -29,6 +29,7 @@ Find me on
   <a href="https://www.linkedin.com/in/buffmomo/" target="_blank"><span op75 i-simple-icons-linkedin /> LinkedIn</a>
 </p>
 
-Or mail me at [<span font-mono>projectinfo1105<span i-carbon-at/>gmail.com</span>](mailto:projectinfo1105@gmail.com)
+Or mail me at [<span font-mono>lama.pushpa1998<span i-carbon-at/>gmail.com</span>](mailto:lama.pushpa1998@gmail.com
+)
 
 ---
