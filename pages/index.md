@@ -4,9 +4,9 @@ description: Pushpa's Portfolio
 plum: true
 ---
 
-Hey, I am Pushpa, a die hard otaku.
+Hey, I am Pushpa Lama.
 
-Core team of {Keela}<br>
+Working at {Tekkon}<br>
 
 Embarking on new challenges and conceiving outlandish ideas, I am a maniac <br>
 Nothing is impossible, as long as you dare to dream and pursue it with unwavering passion.
@@ -29,7 +29,6 @@ Find me on
   <a href="https://www.linkedin.com/in/buffmomo/" target="_blank"><span op75 i-simple-icons-linkedin /> LinkedIn</a>
 </p>
 
-Or mail me at [<span font-mono>lama.pushpa1998<span i-carbon-at/>gmail.com</span>](mailto:lama.pushpa1998@gmail.com
-)
+Or mail me at [<span font-mono>lama.pushpa1998<span i-carbon-at/>gmail.com</span>](mailto:lama.pushpa1998@gmail.com)
 
 ---

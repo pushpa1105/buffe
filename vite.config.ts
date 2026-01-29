@@ -123,6 +123,7 @@ export default defineConfig({
         md.use(MarkdownItMagicLink, {
           linksMap: {
             Keela: 'https://www.keela.co/',
+            Tekkon: 'https://tekkon.com.np/',
           },
           imageOverrides: [
           ],
